@@ -1,0 +1,148 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 100px;
+    margin-top: 30px;
+    margin-bottom: 0;
+
+}
+
+h2 {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.orange-highlight {
+    color: rgb(232, 56, 200);
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.top-banner {
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+section {
+    height: 710px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(45, 57, 228), rgb(232, 56, 200));
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+
+
+}
+
+#center {
+    margin-top: 100px;
+}
+
+#size img {
+    width: 90%;
+
+}
+
+.biography {
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.align {
+    text-align: center;
+    margin-top: 3%;
+}
+
+.box {
+    width: 30%;
+    float: left;
+    margin-top: 100px;
+    margin-left: 40px;
+
+}
+
+.box img {
+    width: 100%;
+    background-color: red;
+
+}
+
+.latest {
+
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 7%;
+}
+
+h5 {
+    text-align: center;
+    color: rgb(122, 117, 117);
+}
+
+.text {
+    text-align: center;
+    width: 40%;
+    margin-left: 30%;
+}
+
+.client a {
+    text-align: center;
+}
+
+.box1 {
+    text-align: center;
+    background-image: linear-gradient(45deg, rgb(45, 57, 228), rgb(232, 56, 200));
+    width: 40%;
+    height: 20%;
+    margin-left: 30%;
+    margin-top: 3%;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+}
+
+.client a {
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+
+.client {
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+footer p {
+    text-align: center;
+    color: rgb(136, 130, 130);
+}
